@@ -1,6 +1,6 @@
-SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+**SIMULATION AND IMPLEMENTATION OF MULTIPLIER**
 
-**AIM: **
+**AIM:**
 
 To simulate and synthesis multiplier using vivado 2023.2
 
